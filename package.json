@@ -1,0 +1,27 @@
+{
+  "name": "vulkan.c",
+  "version": "1.4.0",
+  "description": "Vulkan header files and API registry; The Khronos Group (2018).",
+  "keywords": [
+    "c",
+    "library",
+    "vulkan",
+    "graphics",
+    "api",
+    "header"
+  ],
+  "homepage": "https://github.com/nodef/vulkan.c#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/vulkan.c/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/vulkan.c.git"
+  },
+  "license": "Apache-2.0",
+  "author": "wolfram77@gmail.com",
+  "main": "vulkan/vulkan.h",
+  "scripts": {
+    "test": "bash build.sh test"
+  }
+}
