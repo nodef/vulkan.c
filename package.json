@@ -1,6 +1,6 @@
 {
   "name": "vulkan.c",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Vulkan header files and API registry; The Khronos Group (2018).",
   "keywords": [
     "c",
